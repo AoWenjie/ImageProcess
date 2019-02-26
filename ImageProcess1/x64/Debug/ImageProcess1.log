@@ -1,0 +1,7 @@
+﻿  ImageProcess1.cpp
+e:\c++\imageprocess\imageprocess1\imageprocess1\imageprocess1.cpp(121): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\imageprocess\imageprocess1\imageprocess1\imageprocess1.cpp(604): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c++\imageprocess\imageprocess1\imageprocess1\imageprocess1.cpp(611): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c++\imageprocess\imageprocess1\imageprocess1\imageprocess1.cpp(625): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c++\imageprocess\imageprocess1\imageprocess1\imageprocess1.cpp(632): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ImageProcess1.vcxproj -> E:\C++\imageProcess\ImageProcess1\x64\Debug\ImageProcess1.exe
